@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dandiferr/giphy-example-link-resolver.git"
+    "url": "git@github.com:dandiferr/indeed-link-resolver.git"
   },
   "author": "Andrew Feng <acfeng@andrew.cmu.edu>",
   "license": "MIT",
-  "homepage": "https://github.com/dandiferr/giphy-example-link-resolver",
+  "homepage": "https://github.com/dandiferr/indeed-link-resolver",
   "dependencies": {
     "body-parser": "^1.12.2",
     "cheerio": "^0.22.0",
